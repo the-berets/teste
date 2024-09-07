@@ -1,12 +1,20 @@
-### Descrição:
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
-Setup inicial para desenvolvimento do frontend.
+---
 
-### Requisitos:
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-- [ ]  Utilizar next.js;
-- [ ]  Ter um readme bem documentado;
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-### Critérios de aceitação:
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-- [ ]  Sem conhecimento de frontend/next conseguirei rodar o projeto sem muitas dificuldades lendo o readme;
+**Additional context**
+Add any other context or screenshots about the feature request here.
